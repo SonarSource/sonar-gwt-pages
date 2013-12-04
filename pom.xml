@@ -31,8 +31,7 @@
   </licenses>
 
   <properties>
-    <!-- TODO replace with 4.0 -->
-    <sonar.version>4.1-SNAPSHOT</sonar.version>
+    <sonar.version>4.0</sonar.version>
   </properties>
 
   <dependencies>
