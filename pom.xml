@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.codehaus.sonar</groupId>
   <artifactId>sonar-gwt-pages</artifactId>
-  <version>4.1-SNAPSHOT</version>
+  <version>4.0</version>
   <name>SonarQube :: GWT Pages</name>
   <description>GWT pages to be included in the "Design" plugin packaged with SonarQube.
     Extracting this project outside SQ sources allows to reduce significantly compilation time.
@@ -28,7 +28,7 @@
     <connection>scm:git:git@github.com:SonarSource/sonar-gwt-pages.git</connection>
     <developerConnection>scm:git:git@github.com:SonarSource/sonar-gwt-pages.git</developerConnection>
     <url>https://github.com/SonarSource/sonar-gwt-pages</url>
-    <tag>HEAD</tag>
+    <tag>4.0</tag>
   </scm>
 
   <issueManagement>
